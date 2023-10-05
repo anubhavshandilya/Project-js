@@ -8,13 +8,13 @@
 .container{
     width: 100%;
     height: 100vh;
-    background: #e3f9ff;
+    background: #0cbc29a3;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 .calculator{
-    background: #3a4452;
+    background: #611445ec;
     padding: 20px;
     border-radius: 10px;
 
@@ -28,7 +28,7 @@
     box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.1), 5px 5px 15px rgba(0, 0, 0, 0.2);
     background: transparent;
     font-size: 20px;
-    color: #fff;
+    color: #ffffffd5;
     cursor: pointer;
     margin: 10px;
 }
@@ -42,7 +42,7 @@ form .display input{
     text-align: right;
     flex: 1;
     font-size: 45px;
-    box-shadow: none;
+    box-shadow: brown;
 }
 form input.equal{
     width: 145px;
